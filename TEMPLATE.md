@@ -6,6 +6,11 @@ I'm an AWS solutions architect with over 12 years of experience building highly 
 
 You can find me across the internet as @mijndert. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
 
+# Notes
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 # Statistics
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
