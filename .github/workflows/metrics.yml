@@ -15,14 +15,10 @@ jobs:
       uses: teoxoy/profile-readme-stats@master
       with:
         token: ${{ secrets.METRICS_SECRET }}
-    - name: Update with latest blog posts
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - name: Get RSS Feed
-          uses: kohrongying/readme-the-rss@master
-          with:
-            feed_url: https://mijndertstuij.nl/feed.xml
+    - name: Get RSS Feed
+      uses: kohrongying/readme-the-rss@master
+      with:
+        feed_url: https://mijndertstuij.nl/feed.xml
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
