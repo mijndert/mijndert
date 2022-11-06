@@ -4,7 +4,7 @@ I'm an AWS solutions architect with over 12 years of experience building highly 
 
 # Connect
 
-You can find me across the internet as <a rel="me" href="https://toot.community/@mijndert">@mijndert</a>. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
+You can find me across the internet as @mijndert. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
 
 # Notes
 
@@ -20,4 +20,4 @@ You can find me across the internet as <a rel="me" href="https://toot.community/
 
 Joined Github **11** years ago.
 
-Since then I pushed **2193** commits, opened **50** issues, submitted **95** pull requests, received **9** stars across **12** personal projects and contributed to **30** public repositories.
+Since then I pushed **2195** commits, opened **50** issues, submitted **95** pull requests, received **9** stars across **12** personal projects and contributed to **30** public repositories.
