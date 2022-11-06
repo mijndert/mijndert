@@ -4,7 +4,7 @@ I'm an AWS solutions architect with over 12 years of experience building highly 
 
 # Connect
 
-You can find me across the internet as <a rel="me" href="https://toot.community/@mijndert">@mijndert</a>. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
+You can find me across the internet as @mijndert. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
 
 # Notes
 
