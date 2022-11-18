@@ -20,4 +20,4 @@ You can find me across the internet as @mijndert. I also maintain a website over
 
 Joined Github **11** years ago.
 
-Since then I pushed **2199** commits, opened **50** issues, submitted **99** pull requests, received **9** stars across **12** personal projects and contributed to **29** public repositories.
+Since then I pushed **2201** commits, opened **50** issues, submitted **100** pull requests, received **9** stars across **12** personal projects and contributed to **29** public repositories.
