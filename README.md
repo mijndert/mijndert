@@ -9,15 +9,15 @@ You can find me across the internet as @mijndert. I also maintain a website over
 # Notes
 
 <!-- BLOGPOSTS:START -->
-- [Status update, November 2022](https://mijndertstuij.nl/writing/status-update,-december-2022)
-- [A minimalist take on Vim](https://mijndertstuij.nl/writing/a-minimalist-take-on-vim)
-- [40 questions](https://mijndertstuij.nl/writing/40-questions)
-- [Avoid using internal load balancers](https://mijndertstuij.nl/writing/avoid-using-internal-load-balancers)
-- [AirPods Max](https://mijndertstuij.nl/writing/airpods-max)
+- [Status update, November 2022](https://mijndertstuij.nl/posts/status-update-december-2022/)
+- [A minimalist take on Vim](https://mijndertstuij.nl/posts/a-minimalist-take-on-vim/)
+- [40 questions](https://mijndertstuij.nl/posts/40-questions/)
+- [Avoid using internal load balancers](https://mijndertstuij.nl/posts/avoid-using-internal-load-balancers/)
+- [AirPods Max](https://mijndertstuij.nl/posts/airpods-max/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **11** years ago.
 
-Since then I pushed **2249** commits, opened **52** issues, submitted **105** pull requests, received **9** stars across **11** personal projects and contributed to **34** public repositories.
+Since then I pushed **2256** commits, opened **52** issues, submitted **105** pull requests, received **9** stars across **12** personal projects and contributed to **34** public repositories.
