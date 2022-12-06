@@ -9,15 +9,15 @@ You can find me across the internet as @mijndert. I also maintain a website over
 # Notes
 
 <!-- BLOGPOSTS:START -->
+- [Stop doing DevOps teams if you want to scale](https://mijndertstuij.nl/posts/stop-doing-devops-teams/)
 - [Scaling a Mastodon community to 27k people](https://mijndertstuij.nl/posts/scaling-mastodon-community/)
 - [Status update, November 2022](https://mijndertstuij.nl/posts/status-update-december-2022/)
 - [A minimalist take on Vim](https://mijndertstuij.nl/posts/a-minimalist-take-on-vim/)
 - [40 questions](https://mijndertstuij.nl/posts/40-questions/)
-- [Avoid using internal load balancers](https://mijndertstuij.nl/posts/avoid-using-internal-load-balancers/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **11** years ago.
 
-Since then I pushed **2258** commits, opened **52** issues, submitted **106** pull requests, received **10** stars across **12** personal projects and contributed to **35** public repositories.
+Since then I pushed **2269** commits, opened **52** issues, submitted **106** pull requests, received **11** stars across **12** personal projects and contributed to **35** public repositories.
