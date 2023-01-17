@@ -14,12 +14,12 @@ The latest blog posts on my website.
 - [Dynamic blocks are the key to reusable Terraform modules](https://mijndertstuij.nl/posts/terraform-dynamic-blocks-modules/)
 - [Generating responsive images on a static Hugo website](https://mijndertstuij.nl/posts/hugo-responsive-images/)
 - [Stop doing DevOps teams if you want to scale](https://mijndertstuij.nl/posts/stop-doing-devops-teams/)
-- [Scaling a Mastodon community to 27k people](https://mijndertstuij.nl/posts/scaling-mastodon-community/)
-- [Status update, November 2022](https://mijndertstuij.nl/posts/status-update-november-2022/)
+- [A minimalist take on Vim](https://mijndertstuij.nl/posts/a-minimalist-take-on-vim/)
+- [40 questions](https://mijndertstuij.nl/posts/40-questions/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **11** years ago.
 
-Since then I pushed **2276** commits, opened **52** issues, submitted **114** pull requests, received **12** stars across **12** personal projects and contributed to **30** public repositories.
+Since then I pushed **2287** commits, opened **52** issues, submitted **114** pull requests, received **13** stars across **12** personal projects and contributed to **30** public repositories.
