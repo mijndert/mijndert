@@ -2,8 +2,6 @@
 
 I'm an AWS solutions architect with over 14 years of experience building highly scalable, high performance infrastructure. My passion is scaling out infrastructure from 0 to millions of users while adhering to industry best-practices in a cost-effective manner.
 
-# Connect
-
 You can find me across the internet as @mijndert. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
 
 # Blog posts
@@ -22,4 +20,4 @@ The latest blog posts on my website.
 
 Joined Github **12** years ago.
 
-Since then I pushed **2378** commits, opened **57** issues, submitted **140** pull requests, received **18** stars across **12** personal projects and contributed to **37** public repositories.
+Since then I pushed **2380** commits, opened **57** issues, submitted **140** pull requests, received **18** stars across **12** personal projects and contributed to **37** public repositories.
