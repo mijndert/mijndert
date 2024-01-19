@@ -9,15 +9,15 @@ You can find me across the internet as @mijndert. I also maintain a website over
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Config-driven Terraform](https://mijndertstuij.nl/posts/config-driven-terraform/)
 - [How I do to-dos](https://mijndertstuij.nl/posts/how-i-do-todos/)
 - [On running with a watch](https://mijndertstuij.nl/posts/running-with-a-watch/)
 - [Obsidian doesn't click for me](https://mijndertstuij.nl/posts/obsidian-doesnt-click-for-me/)
 - [Saving time using Terraform import blocks](https://mijndertstuij.nl/posts/terraform-import-blocks/)
-- [Dynamic blocks are the key to reusable Terraform modules](https://mijndertstuij.nl/posts/terraform-dynamic-blocks-modules/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **12** years ago.
 
-Since then I pushed **636** commits, opened **24** issues, submitted **42** pull requests, received **19** stars across **12** personal projects and contributed to **6** public repositories.
+Since then I pushed **637** commits, opened **24** issues, submitted **42** pull requests, received **19** stars across **12** personal projects and contributed to **6** public repositories.
