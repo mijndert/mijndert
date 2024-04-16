@@ -1,6 +1,6 @@
 # About
 
-I’m an Senior DevOps Engineer with over 15 years of experience building highly scalable, high performance infrastructure on top of AWS. My passion is scaling out infrastructure from 0 to millions of users while adhering to industry best-practices in a cost-effective manner.
+Senior DevOps Engineer with over 15 years of experience building highly scalable, high performance infrastructure on top of AWS. My passion is scaling out infrastructure from 0 to millions of users while adhering to industry best-practices in a cost-effective manner.
 
 You can find me across the internet as @mijndert. I also maintain a website over at [mijndertstuij.nl](https://mijndertstuij.nl/).
 
