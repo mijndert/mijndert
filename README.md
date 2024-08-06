@@ -9,15 +9,15 @@ You can find me across the internet as @mijndert. I also maintain a website over
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Walking on sand for 11 hours](https://mijndertstuij.nl/posts/walking-for-11-hours/)
 - [Default apps 2024](https://mijndertstuij.nl/posts/default-apps-2024/)
 - [Config-driven Terraform](https://mijndertstuij.nl/posts/config-driven-terraform/)
 - [On running with a watch](https://mijndertstuij.nl/posts/running-with-a-watch/)
 - [Obsidian doesn't click for me](https://mijndertstuij.nl/posts/obsidian-doesnt-click-for-me/)
-- [Saving time using Terraform import blocks](https://mijndertstuij.nl/posts/terraform-import-blocks/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **13** years ago.
 
-Since then I pushed **851** commits, opened **25** issues, submitted **52** pull requests, received **23** stars across **13** personal projects and contributed to **3** public repositories.
+Since then I pushed **856** commits, opened **25** issues, submitted **52** pull requests, received **23** stars across **13** personal projects and contributed to **3** public repositories.
