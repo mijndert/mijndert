@@ -18,6 +18,6 @@ The latest blog posts on my website.
 
 # Statistics
 
-Joined Github **13** years ago.
+Joined Github **14** years ago.
 
 Since then I pushed **1045** commits, opened **26** issues, submitted **56** pull requests, received **25** stars across **14** personal projects and contributed to **3** public repositories.
