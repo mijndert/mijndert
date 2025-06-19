@@ -9,15 +9,15 @@ You can find me across the internet as @mijndert. I also maintain a website over
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Smartphone resentment](https://mijndertstuij.nl/posts/smartphone-resentment/)
 - [Week notes 24](https://mijndertstuij.nl/weeknotes/week-notes-24/)
 - [Forever games](https://mijndertstuij.nl/posts/forever-games/)
 - [Week notes 23](https://mijndertstuij.nl/weeknotes/week-notes-23/)
 - [Garmin Forerunner 570](https://mijndertstuij.nl/posts/garmin-forerunner-570/)
-- [My phone number is poisoned](https://mijndertstuij.nl/posts/my-phone-number-is-poisoned/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **14** years ago.
 
-Since then I pushed **1246** commits, opened **27** issues, submitted **60** pull requests, received **26** stars across **15** personal projects and contributed to **8** public repositories.
+Since then I pushed **1248** commits, opened **27** issues, submitted **60** pull requests, received **26** stars across **15** personal projects and contributed to **8** public repositories.
