@@ -20,4 +20,4 @@ The latest blog posts on my website.
 
 Joined Github **14** years ago.
 
-Since then I pushed **1416** commits, opened **32** issues, submitted **67** pull requests, received **28** stars across **17** personal projects and contributed to **9** public repositories.
+Since then I pushed **1417** commits, opened **32** issues, submitted **67** pull requests, received **28** stars across **17** personal projects and contributed to **10** public repositories.
