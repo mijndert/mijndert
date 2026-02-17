@@ -9,15 +9,15 @@ You can find me across the internet as @mijndert. I also maintain a website over
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Weeknotes 7 - 2026](https://mijndertstuij.nl/weeknotes/7-2026/)
 - [Weeknotes 6 - 2026](https://mijndertstuij.nl/weeknotes/6-2026/)
 - [Just run](https://mijndertstuij.nl/posts/just-run/)
 - [2025 GOTY](https://mijndertstuij.nl/posts/2025-goty/)
 - [Less, more](https://mijndertstuij.nl/posts/less-more/)
-- [Log out](https://mijndertstuij.nl/posts/log-out/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **14** years ago.
 
-Since then I pushed **1433** commits, opened **32** issues, submitted **68** pull requests, received **28** stars across **17** personal projects and contributed to **10** public repositories.
+Since then I pushed **1434** commits, opened **32** issues, submitted **68** pull requests, received **28** stars across **17** personal projects and contributed to **10** public repositories.
