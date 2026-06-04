@@ -18,15 +18,15 @@ You can find me as **@mijndert** most places, with a longer home at [mijndertstu
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Scale Kubernetes deployments to zero using KEDA](https://mijndertstuij.nl/posts/scale-to-zero-keda-cron-scaler/)
 - [Migrating from ingress-nginx to Envoy Gateway](https://mijndertstuij.nl/posts/migrating-ingress-nginx-envoy-gateway/)
 - [Weeknotes 20 - 2026](https://mijndertstuij.nl/weeknotes/20-2026/)
 - [Fixing headline-only RSS feeds with rss-fulltext](https://mijndertstuij.nl/posts/introducing-rss-fulltext/)
 - [Weeknotes 16 - 2026](https://mijndertstuij.nl/weeknotes/16-2026/)
-- [Responsive images in Hugo using Render Hooks](https://mijndertstuij.nl/posts/hugo-responsive-images-using-render-hooks/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **15** years ago.
 
-Since then I pushed **1575** commits, opened **32** issues, submitted **72** pull requests, received **36** stars across **20** personal projects and contributed to **4** public repositories.
+Since then I pushed **1577** commits, opened **32** issues, submitted **72** pull requests, received **36** stars across **20** personal projects and contributed to **4** public repositories.
