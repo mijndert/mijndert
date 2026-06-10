@@ -18,7 +18,7 @@ You can find me as **@mijndert** most places, with a longer home at [mijndertstu
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
-- [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
+- [I was wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
 - [Cheap to write, expensive to own](https://mijndertstuij.nl/posts/cheap-to-write-expensive-to-own/)
 - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
 - [My Sony RX100 IV takes better photos now](https://mijndertstuij.nl/posts/sony-rx100-fuji-like-presets/)
@@ -29,4 +29,4 @@ The latest blog posts on my website.
 
 Joined Github **15** years ago.
 
-Since then I pushed **1575** commits, opened **27** issues, submitted **66** pull requests, received **59** stars across **20** personal projects and contributed to **3** public repositories.
+Since then I pushed **1576** commits, opened **27** issues, submitted **66** pull requests, received **63** stars across **20** personal projects and contributed to **3** public repositories.
