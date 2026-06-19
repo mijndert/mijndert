@@ -18,15 +18,15 @@ You can find me as **@mijndert** most places, with a longer home at [mijndertstu
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Garmin needs to do better](https://mijndertstuij.nl/posts/garmin-needs-to-do-better/)
 - [The biggest upgrade to CalAction yet](https://mijndertstuij.nl/posts/biggest-calaction-upgrade-yet/)
 - [Weeknotes 24 - 2026](https://mijndertstuij.nl/weeknotes/24-2026/)
 - [I was wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
 - [Cheap to write, expensive to own](https://mijndertstuij.nl/posts/cheap-to-write-expensive-to-own/)
-- [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **15** years ago.
 
-Since then I pushed **1616** commits, opened **27** issues, submitted **67** pull requests, received **73** stars across **22** personal projects and contributed to **3** public repositories.
+Since then I pushed **1617** commits, opened **27** issues, submitted **67** pull requests, received **73** stars across **22** personal projects and contributed to **3** public repositories.
