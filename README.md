@@ -18,15 +18,15 @@ You can find me as **@mijndert** most places, with a longer home at [mijndertstu
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
 - [Weeknotes 27 - 2026](https://mijndertstuij.nl/weeknotes/27-2026/)
 - [My favorite things on Steam Deck right now](https://mijndertstuij.nl/posts/favorite-things-on-steam-deck/)
 - [Burst: a free (no ads) bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
 - [Garmin needs to do better](https://mijndertstuij.nl/posts/garmin-needs-to-do-better/)
-- [The biggest upgrade to CalAction yet](https://mijndertstuij.nl/posts/biggest-calaction-upgrade-yet/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **15** years ago.
 
-Since then I pushed **1663** commits, opened **27** issues, submitted **68** pull requests, received **76** stars across **25** personal projects and contributed to **3** public repositories.
+Since then I pushed **1668** commits, opened **27** issues, submitted **68** pull requests, received **77** stars across **25** personal projects and contributed to **3** public repositories.
