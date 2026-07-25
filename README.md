@@ -18,15 +18,15 @@ You can find me as **@mijndert** most places, with a longer home at [mijndertstu
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Weeknotes 30 - 2026](https://mijndertstuij.nl/weeknotes/30-2026/)
 - [Weeknotes 29 - 2026](https://mijndertstuij.nl/weeknotes/29-2026/)
 - [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
 - [Weeknotes 27 - 2026](https://mijndertstuij.nl/weeknotes/27-2026/)
 - [My favorite things on Steam Deck right now](https://mijndertstuij.nl/posts/favorite-things-on-steam-deck/)
-- [Burst: a free (no ads) bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **15** years ago.
 
-Since then I pushed **1696** commits, opened **27** issues, submitted **69** pull requests, received **81** stars across **23** personal projects and contributed to **3** public repositories.
+Since then I pushed **1697** commits, opened **27** issues, submitted **69** pull requests, received **81** stars across **23** personal projects and contributed to **3** public repositories.
