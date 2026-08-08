@@ -18,15 +18,15 @@ You can find me as **@mijndert** most places, with a longer home at [mijndertstu
 The latest blog posts on my website.
 
 <!-- BLOGPOSTS:START -->
+- [Weeknotes 32 - 2026](https://mijndertstuij.nl/weeknotes/32-2026/)
 - [Reconsidering my relationship with the Fediverse](https://mijndertstuij.nl/posts/reconsidering-my-relationship-with-the-fediverse/)
 - [You probably don't follow me on Mastodon](https://mijndertstuij.nl/posts/you-dont-follow-me-on-mastodon/)
 - [A not very comprehensive Garmin Cirqa review](https://mijndertstuij.nl/posts/garmin-cirqa-review/)
 - [Weeknotes 30 - 2026](https://mijndertstuij.nl/weeknotes/30-2026/)
-- [Weeknotes 29 - 2026](https://mijndertstuij.nl/weeknotes/29-2026/)
 <!-- BLOGPOSTS:END -->
 
 # Statistics
 
 Joined Github **15** years ago.
 
-Since then I pushed **1705** commits, opened **27** issues, submitted **69** pull requests, received **81** stars across **23** personal projects and contributed to **2** public repositories.
+Since then I pushed **1706** commits, opened **27** issues, submitted **69** pull requests, received **81** stars across **23** personal projects and contributed to **2** public repositories.
